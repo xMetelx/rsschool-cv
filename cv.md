@@ -5,11 +5,11 @@
 ## Junior Frontend Developer
 
 ## Contact informstion: 
-**Phone:** +7 967 211 53 82 </br>
-**Email:** dvchurkina@gmail.com </br>
-**Telegram** @xmetelx </br>
-**GitHub:** xmetelx
-**Discord** Daria Metel (@xmetelx)
+- **Phone:** +7 967 211 53 82 </br>
+- **Email:** dvchurkina@gmail.com </br>
+- **Telegram** @xmetelx </br>
+- **GitHub:** xmetelx
+- **Discord** Daria Metel (@xmetelx)
 
 ## About Myself
 I was an equestrian coach.
