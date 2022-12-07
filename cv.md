@@ -1,11 +1,13 @@
+# [rsschool-cv](https://xmetelx.github.io/rsschool-cv/cv)
+
 # Daria Churkina
 
 ## Junior Frontend Developer
 
 ## Contact informstion: 
-**Phone:** +7 967 211 53 82
-**Email:** dvchurkina@gmail.com
-**Telegram** @xmetelx
+**Phone:** +7 967 211 53 82 </br>
+**Email:** dvchurkina@gmail.com </br>
+**Telegram** @xmetelx </br>
 **GitHub:** xmetelx
 
 ## About Myself
